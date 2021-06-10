@@ -15,7 +15,6 @@ function isValid(name) {
   } else {
     return false;
   }
-  // return name !== null && !name.includes (" ") && name.length >= 4
 }
 
 
@@ -28,4 +27,4 @@ function sayHello() {
     print('Некорректное имя');
   }
 }
-sayHello()
+sayHello() 
