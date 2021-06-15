@@ -4,4 +4,4 @@ function showSalary(users, age) {
   let results = list.join('\n');
   return results;
 };
-let result = showSalary(users, age);
+
